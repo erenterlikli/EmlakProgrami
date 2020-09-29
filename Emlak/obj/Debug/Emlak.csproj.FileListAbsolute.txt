@@ -1,0 +1,11 @@
+C:\Users\Eren\source\repos\Emlak\Emlak\bin\Debug\Emlak.exe.config
+C:\Users\Eren\source\repos\Emlak\Emlak\bin\Debug\Emlak.exe
+C:\Users\Eren\source\repos\Emlak\Emlak\bin\Debug\Emlak.pdb
+C:\Users\Eren\source\repos\Emlak\Emlak\obj\Debug\Emlak.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\Emlak\Emlak\obj\Debug\Emlak.Form1.resources
+C:\Users\Eren\source\repos\Emlak\Emlak\obj\Debug\Emlak.Properties.Resources.resources
+C:\Users\Eren\source\repos\Emlak\Emlak\obj\Debug\Emlak.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\Emlak\Emlak\obj\Debug\Emlak.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\Emlak\Emlak\obj\Debug\Emlak.exe
+C:\Users\Eren\source\repos\Emlak\Emlak\obj\Debug\Emlak.pdb
+C:\Users\Eren\source\repos\Emlak\Emlak\obj\Debug\Emlak.Form2.resources
